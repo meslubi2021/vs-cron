@@ -442,6 +442,6 @@
   "dependencies": {
     "cron": "^1.6.0",
     "moment": "^2.23.0",
-    "moment-timezone": "^0.5.23"
+    "moment-timezone": "^0.5.35"
   }
 }
