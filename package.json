@@ -423,9 +423,9 @@
   "devDependencies": {
     "@types/mocha": "^2.2.48",
     "@types/node": "^6.14.2",
-    "mocha": "^2.3.3",
+    "mocha": "^10.5.2",
     "typescript": "^2.9.2",
-    "vscode": "^1.1.26"
+    "vscode": "^1.1.37"
   },
   "icon": "icon.png",
   "author": {
@@ -441,7 +441,7 @@
   "readmeFilename": "README.md",
   "dependencies": {
     "cron": "^1.6.0",
-    "moment": "^2.23.0",
-    "moment-timezone": "^0.5.23"
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.35"
   }
 }
